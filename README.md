@@ -1,4 +1,4 @@
-${moduleName}
+NMRS Database Backup Module
 ==========================
 
 Description
